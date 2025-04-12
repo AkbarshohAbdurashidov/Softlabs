@@ -19,42 +19,42 @@ This personal portfolio website was built from scratch using **HTML**, **CSS**, 
 ### 1. Hero Section
 Includes a headline with text that changes every 4 seconds.
 
-![Hero Section](preview/prev_1.png)
+![Hero Section](preview/prev_9.png)
 
 ---
 
-### 2. About Me Section
+### 2. About us Section
 Contains a brief description about me.
 
-![About Section](preview/prev_2.png)
+![About Section](preview/prev_10.png)
 
 ---
 
 ### 3. Services / Skills
 Lists the services provided or skills possessed.
 
-![Services Section](preview/prev_3.png)
+![Services Section](preview/prev_11.png)
 
 ---
 
-### 4. Portfolio / Projects
+### 4. Latest blog posts
 Displays previous works or project examples.
 
-![Portfolio Section](preview/prev_4.png)
+![Portfolio Section](preview/prev_8.png)
 
 ---
 
 ### 6. Contact Section
 Includes contact information and a static contact form.
 
-![Contact Section](preview/prev_12.png)
+![Contact Section](preview/prev_4.png)
 
 ---
 
 ### 7. Footer
 Bottom part of the site with social media links.
 
-![Footer Section](preview/prev_13.png)
+![Footer Section](preview/prev_1.png)
 
 ---
 
