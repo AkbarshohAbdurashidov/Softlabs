@@ -66,7 +66,3 @@ Bottom part of the site with social media links.
 
 ---
 
-## 📷 Note
-
-For each image placeholder above, insert your actual website screenshots in the `images` folder with the following structure:
-
